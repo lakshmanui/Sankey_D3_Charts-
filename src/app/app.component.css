@@ -1,0 +1,9 @@
+.navbar-brand {
+  text-align: center;
+}
+.navbar-default{
+  background: black;
+}
+.navbar-default .navbar-brand{
+  color: white;
+}
